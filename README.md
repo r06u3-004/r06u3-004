@@ -9,23 +9,11 @@ I am motivated to bring value to organizations by enhancing their security postu
 ---
 
 ## Skill Set 🛡️
-These are some of the major technologies and domains I work with:
 
-**Operating Systems & Infrastructure**  
-Windows Server | Linux | Active Directory  
-
-**Networking**  
-TCP/IP | Switching | VPN | RADIUS  
-
-**SOC & Security Tools**  
-Wazuh | TheHive | Cortex | Splunk | ELK  
-Snort | FortiGate | FortiAnalyzer | DFIR-IRIS  
-
-**DevSecOps**  
-GitLab | Jenkins | Docker | CI/CD | Proxmox | Ansible | Kubernetes  
-
-**Offensive Security**  
-Kali Linux | Hack The Box | TryHackMe | Burp Suite | GDB  
+* **Networking:** Network Administration, VLANs, Routing, Switching, VPNs, Network Troubleshooting, Network Security  
+* **SOC:** Security Monitoring, Threat Detection, Log Analysis, Alert Analysis, Threat Intelligence, Security Event Correlation  
+* **DevSecOps:** Secure CI/CD, Security Automation, Application Security, Infrastructure Security 
+* **Red Teaming:**  Vulnerability Assessment, Reconnaissance, Enumeration, Exploitation, Web Security, Network Security Testing  
 
 ---
 
