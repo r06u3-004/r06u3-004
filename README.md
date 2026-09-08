@@ -41,17 +41,18 @@ These are some of the major technologies and domains I work with:
 
 <br>
 
-## Some of my stats :bar_chart:
+## Certifications :medal_sports:
 
-<img src="https://github-readme-stats.vercel.app/api?username=wensaa&show_icons=true&theme=radical&include_all_commits=true">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wensaa&theme=radical" height="180">
-|--|--|
+- **AZ-900 — Microsoft Azure Fundamentals**  
+- **Fortinet Certified Professional – FortiGate 7.4 Administrator (NSE 4)**  
+- **Fortinet Certified Professional – FortiAnalyzer 7.4 Analyst (NSE 5)**  
+- **CompTIA Security+ (SY0-701)**  
 
 <br>
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/wensaa"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:wensaa@protonmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://tryhackme.com/p/wensaa"><img src="https://avatars.githubusercontent.com/u/51942717?s=200&v=4" width="40"></a>|<a href="https://app.hackthebox.com/profile/123456"><img src="https://avatars.githubusercontent.com/u/37337384?s=200&v=4" width="40"></a>
-|--|--|--|--|
+<a href="https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
 ### Here is a random cyber meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
