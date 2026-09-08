@@ -57,12 +57,11 @@ These are some of the major technologies and domains I work with:
 | Area | Tools |
 |---|---|
 | **Offensive Security** | Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, Gobuster, ffuf, Nikto, Nuclei, WPScan, Aircrack-ng, pwntools, LinPEAS |
-| **Defensive / SIEM** | Splunk, Wazuh, Snort, Suricata, Nessus, OpenVAS, Grafana, Loki, Promtail |
-| **Networking & Recon** | Cisco (CCNA), Wireshark, Nmap, Netcat, Shodan, Maltego, Tor |
-| **Development** | Python, C, C++, Java, Bash, PowerShell, LaTeX |
-| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, GCP, Terraform, GitHub Actions, VMware, VirtualBox |
-| **Web Technologies** | HTML/CSS, JavaScript, TypeScript, React, PHP, Laravel, Node.js, Nginx, Apache |
-| **OS** | Kali Linux, Ubuntu, Debian, Windows, macOS, Raspberry Pi OS |
+| **Defensive / SIEM** | Splunk, Wazuh, Snort, Suricata, Nessus, OpenVAS, Grafana |
+| **Networking & Recon** | Wireshark, Nmap, Netcat, Shodan, Maltego, Tor |
+| **Development** | Python, C, C++, Bash, PowerShell |
+| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, Terraform, VMware |
+| **Web Technologies** | HTML/CSS, JavaScript, Node.js, Nginx, Apache |
 
 </details>
 
@@ -74,20 +73,6 @@ These are some of the major technologies and domains I work with:
   <a href="https://tryhackme.com/p/r06u3"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="https://app.hackthebox.com/users/14mr06u3"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 </p>
-
----
-
-## 📊 Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=wensaa&theme=dark&hide_border=false)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wensaa/wensaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wensaa/wensaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wensaa/wensaa/output/github-snake.svg" />
-</picture>
 
 ---
 
