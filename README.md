@@ -1,7 +1,10 @@
-<h1>Hi There, I am <a href="https://github.com/wensaa">Wen'Saa</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am <a href="https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287">Wen'Saa Grégoire BAHOMDA</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Cybersecurity & Network Systems Professional**, passionate about **defensive and offensive security**, **incident response**, and **DevSecOps**.  
-My day-to-day work revolves around securing infrastructures, analyzing threats, and building resilient environments. In my free time, I enjoy experimenting in labs, pentesting platforms like **Hack The Box** and **TryHackMe**, and continuously learning new attack and defense techniques. I am open to collaborate on challenging security projects.
+I'm a **Cybersecurity & Network Systems Professional**, specialized in **defensive and offensive security**, **incident response**, and **DevSecOps**.  
+I design and deploy secure infrastructures, implement monitoring solutions, and conduct threat analysis to strengthen resilience against cyberattacks.  
+With hands-on experience in building and managing labs, I continuously test, validate, and improve security strategies in realistic environments.  
+My profile combines expertise in **networks, systems, SOC operations, security automation, and vulnerability management**, with a strong focus on practical application and continuous improvement.  
+I am motivated to bring value to organizations by enhancing their security posture and contributing to innovative projects.
 
 ---
 
@@ -23,9 +26,6 @@ GitLab | Jenkins | Docker | CI/CD | Proxmox | Ansible | Kubernetes
 
 **Offensive Security**  
 Kali Linux | Hack The Box | TryHackMe | Burp Suite | GDB  
-
-**Forensics & Incident Response**  
-Forensics | Incident Response  
 
 ---
 
@@ -66,5 +66,5 @@ Forensics | Incident Response
 
 ---
 
-Credits: [Wen'Saa](https://github.com/wensaa)  
+Credits: [r06u3-004](https://github.com/r06u3-004)  
 Last Edited on: 08/09/2026
