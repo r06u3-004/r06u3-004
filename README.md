@@ -48,18 +48,55 @@ These are some of the major technologies and domains I work with:
 - **Fortinet Certified Professional – FortiAnalyzer 7.4 Analyst (NSE 5)**  
 - **CompTIA Security+ (SY0-701)**  
 
+---
+
+<details>
+<summary><b>Full Skillset</b></summary>
 <br>
+
+| Area | Tools |
+|---|---|
+| **Offensive Security** | Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, Gobuster, ffuf, Nikto, Nuclei, WPScan, Aircrack-ng, pwntools, LinPEAS |
+| **Defensive / SIEM** | Splunk, Wazuh, Snort, Suricata, Nessus, OpenVAS, Grafana, Loki, Promtail |
+| **Networking & Recon** | Cisco (CCNA), Wireshark, Nmap, Netcat, Shodan, Maltego, Tor |
+| **Development** | Python, C, C++, Java, Bash, PowerShell, LaTeX |
+| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, GCP, Terraform, GitHub Actions, VMware, VirtualBox |
+| **Web Technologies** | HTML/CSS, JavaScript, TypeScript, React, PHP, Laravel, Node.js, Nginx, Apache |
+| **OS** | Kali Linux, Ubuntu, Debian, Windows, macOS, Raspberry Pi OS |
+
+</details>
+
+---
+
+## 🏴 Platforms
+
+<p>
+  <a href="https://tryhackme.com/p/wensaa"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://app.hackthebox.com/profile/123456"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+</p>
+
+---
+
+## 📊 Stats
+
+![](https://nirzak-streak-stats.vercel.app/?user=wensaa&theme=dark&hide_border=false)
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wensaa/wensaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wensaa/wensaa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wensaa/wensaa/output/github-snake.svg" />
+</picture>
+
+---
 
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
-### Here is a random cyber meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
 -----
 Credits: [Wen'Saa](https://github.com/wensaa)
 
 Last Edited on: 08/09/2026
+
