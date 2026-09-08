@@ -21,18 +21,18 @@ These are some of the major technologies and domains I work with:
 
 <img title="Wazuh" alt="Wazuh" width="40px" src="https://avatars.githubusercontent.com/u/40612332?s=200&v=4">|<img title="TheHive" alt="TheHive" width="40px" src="https://avatars.githubusercontent.com/u/29518275?s=200&v=4">|<img title="Cortex" alt="Cortex" width="40px" src="https://avatars.githubusercontent.com/u/29518275?s=200&v=4">|<img title="Splunk" alt="Splunk" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/splunk/splunk.png">|<img title="ELK" alt="ELK" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">
 |--|--|--|--|--|
-<img title="Snort" alt="Snort" width="40px" src="https://img.icons8.com/color/48/000000/firewall.png">|<img title="FortiGate" alt="FortiGate" width="40px" src="https://img.icons8.com/color/48/000000/fortinet.png">|<img title="FortiAnalyzer" alt="FortiAnalyzer" width="40px" src="https://img.icons8.com/color/48/000000/statistics.png">
-|--|--|--|
+<img title="Snort" alt="Snort" width="40px" src="https://img.icons8.com/color/48/000000/firewall.png">|<img title="FortiGate" alt="FortiGate" width="40px" src="https://img.icons8.com/color/48/000000/fortinet.png">|<img title="FortiAnalyzer" alt="FortiAnalyzer" width="40px" src="https://img.icons8.com/color/48/000000/statistics.png">|<img title="DFIR-IRIS" alt="DFIR-IRIS" width="40px" src="https://avatars.githubusercontent.com/u/103633437?s=200&v=4">
+|--|--|--|--|
 
 **DevSecOps**
 
-<img title="GitLab" alt="GitLab" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/gitlab/gitlab.png">|<img title="Jenkins" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="CI/CD" alt="CI/CD" width="40px" src="https://img.icons8.com/color/48/000000/continuous-integration.png">
-|--|--|--|--|
+<img title="GitLab" alt="GitLab" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/gitlab/gitlab.png">|<img title="Jenkins" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="CI/CD" alt="CI/CD" width="40px" src="https://img.icons8.com/color/48/000000/continuous-integration.png">|<img title="Proxmox" alt="Proxmox" width="40px" src="https://avatars.githubusercontent.com/u/12071841?s=200&v=4">|<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png">
+|--|--|--|--|--|--|
 
 **Offensive Security**
 
-<img title="Kali Linux" alt="Kali Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kali-linux/kali-linux.png">|<img title="Hack The Box" alt="Hack The Box" width="40px" src="https://avatars.githubusercontent.com/u/37337384?s=200&v=4">|<img title="TryHackMe" alt="TryHackMe" width="40px" src="https://avatars.githubusercontent.com/u/51942717?s=200&v=4">
-|--|--|--|
+<img title="Kali Linux" alt="Kali Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kali-linux/kali-linux.png">|<img title="Hack The Box" alt="Hack The Box" width="40px" src="https://avatars.githubusercontent.com/u/37337384?s=200&v=4">|<img title="TryHackMe" alt="TryHackMe" width="40px" src="https://avatars.githubusercontent.com/u/51942717?s=200&v=4">|<img title="Burp Suite" alt="Burp Suite" width="40px" src="https://avatars.githubusercontent.com/u/19864447?s=200&v=4">|<img title="GDB" alt="GDB" width="40px" src="https://img.icons8.com/color/48/000000/console.png">
+|--|--|--|--|--|
 
 **Forensics & Incident Response**
 
@@ -56,12 +56,13 @@ These are some of the major technologies and domains I work with:
 
 | Area | Tools |
 |---|---|
-| **Offensive Security** | Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, Gobuster, ffuf, Nikto, Nuclei, WPScan, Aircrack-ng, pwntools, LinPEAS |
-| **Defensive / SIEM** | Splunk, Wazuh, Snort, Suricata, Nessus, OpenVAS, Grafana |
-| **Networking & Recon** | Wireshark, Nmap, Netcat, Shodan, Maltego, Tor |
+| **Offensive Security** | Metasploit, SQLMap, Hydra, John the Ripper, Hashcat, Gobuster, ffuf, Nikto, Nuclei, WPScan, Aircrack-ng, pwntools, LinPEAS, Burp Suite, GDB |
+| **Defensive / SIEM** | Splunk, Wazuh, Snort, Suricata, Nessus, OpenVAS, Grafana, TheHive, Cortex, DFIR-IRIS |
+| **Networking & Recon** | Wireshark, Nmap, Netcat, Shodan, Maltego, Tor, FortiGate, pfSense |
 | **Development** | Python, C, C++, Bash, PowerShell |
-| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, Terraform, VMware |
+| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, Terraform, VMware, Proxmox, GitLab CI, Jenkins, Ansible |
 | **Web Technologies** | HTML/CSS, JavaScript, Node.js, Nginx, Apache |
+| **AI** | Claude, Copilot, ChatGPT |
 
 </details>
 
