@@ -71,8 +71,8 @@ These are some of the major technologies and domains I work with:
 ## 🏴 Platforms
 
 <p>
-  <a href="https://tryhackme.com/p/wensaa"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://app.hackthebox.com/profile/123456"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/p/r06u3"><img src="https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://app.hackthebox.com/users/14mr06u3"><img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 </p>
 
 ---
@@ -99,4 +99,3 @@ These are some of the major technologies and domains I work with:
 Credits: [Wen'Saa](https://github.com/wensaa)
 
 Last Edited on: 08/09/2026
-
