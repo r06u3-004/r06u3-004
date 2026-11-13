@@ -1,6 +1,6 @@
 <h1>Hi There, I am <a href="https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287">Wen'Saa Grégoire BAHOMDA</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Cybersecurity & Network Systems Professional**, specialized in **defensive and offensive security**, **incident response**, and **DevSecOps**.  
+I'm a **Cybersecurity & Network Systems Professional**, specialized in **defensive and offensive security**, and **incident response**.  
 I design and deploy secure infrastructures, implement monitoring solutions, and conduct threat analysis to strengthen resilience against cyberattacks.  
 With hands-on experience in building and managing labs, I continuously test, validate, and improve security strategies in realistic environments.  
 My profile combines expertise in **networks, systems, SOC operations, security automation, and vulnerability management**, with a strong focus on practical application and continuous improvement.  
@@ -10,9 +10,8 @@ I am motivated to bring value to organizations by enhancing their security postu
 
 ## Skill Set 🛡️
 
-* **Networking:** Network Administration, VLANs, Routing, Switching, VPNs, Network Troubleshooting, Network Security  
-* **SOC:** Security Monitoring, Threat Detection, Log Analysis, Alert Analysis, Threat Intelligence, Security Event Correlation  
-* **DevSecOps:** Secure CI/CD, Security Automation, Application Security, Infrastructure Security 
+* **Networking:** Network Administration, VLANs, Routing, Switching, VPNs, Network Troubleshooting, Network Security, Infrastructure Security
+* **SOC:** Security Monitoring, Threat Detection, Log Analysis, Alert Analysis, Threat Intelligence, Security Event Correlation, Security Automation
 * **Red Teaming:**  Vulnerability Assessment, Reconnaissance, Enumeration, Exploitation, Web Security, Network Security Testing  
 
 ---
@@ -33,7 +32,7 @@ I am motivated to bring value to organizations by enhancing their security postu
 | **Defensive / SIEM** | Splunk, Wazuh, Snort, Suricata, Nessus, OpenVAS, Grafana, TheHive, Cortex, DFIR-IRIS |
 | **Networking & Recon** | Wireshark, Nmap, Netcat, Shodan, Maltego, Tor, FortiGate, pfSense |
 | **Development** | Python, C, C++, Bash, PowerShell |
-| **Cloud & Infrastructure** | Docker, Kubernetes, AWS, Azure, Terraform, VMware, Proxmox, GitLab CI, Jenkins, Ansible |
+| **Infrastructure** | Docker, Kubernetes, AWS, Azure, Terraform, VMware, Proxmox, GitLab CI, Jenkins, Ansible |
 | **Web Technologies** | HTML/CSS, JavaScript, Node.js, Nginx, Apache |
 | **AI** | Claude, Copilot, ChatGPT |
 
