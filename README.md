@@ -1,6 +1,6 @@
 <h1>Hi There, I am <a href="https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287">Wen'Saa Grégoire BAHOMDA</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Cybersecurity & Network Systems Professional**, specialized in **defensive and offensive security**, and **incident response**.  
+I'm a **Cybersecurity & Network Systems Professional**, specialized in **defensive and offensive security** and **incident response**.  
 I design and deploy secure infrastructures, implement monitoring solutions, and conduct threat analysis to strengthen resilience against cyberattacks.  
 With hands-on experience in building and managing labs, I continuously test, validate, and improve security strategies in realistic environments.  
 My profile combines expertise in **networks, systems, SOC operations, security automation, and vulnerability management**, with a strong focus on practical application and continuous improvement.  
