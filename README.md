@@ -52,6 +52,3 @@ I am motivated to bring value to organizations by enhancing their security postu
 <a href="https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
 ---
-
-Credits: [r06u3-004](https://github.com/r06u3-004)  
-Last Edited on: 08/09/2026
