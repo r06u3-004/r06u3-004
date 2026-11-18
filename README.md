@@ -41,15 +41,3 @@ I am motivated to bring value to organizations by enhancing their security postu
 
 ---
 
-## Platforms
-
-\<p>   \<a href="[https://tryhackme.com/p/r06u3](https://tryhackme.com/p/r06u3)">     \<img src="[https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge\&logo=tryhackme\&logoColor=white)" />   \</a>   \<a href="[https://app.hackthebox.com/users/14mr06u3](https://app.hackthebox.com/users/14mr06u3)">     \<img src="[https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge\&logo=hackthebox\&logoColor=black)" />   \</a> \</p>
-
----
-
-## Let's Connect
-
-\<p>   \<a href="[https://www.gregoire-bahomda.site/fr](https://www.gregoire-bahomda.site/fr)">     \<img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)" />   \</a>   \<a href="[https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287/](https://www.linkedin.com/in/wen-saa-grégoire-bahomda-501a7a287/)">     \<img src="[https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png)" width="40" />   \</a> \</p>
-
----
-
